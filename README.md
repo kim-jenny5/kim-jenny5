@@ -1,6 +1,6 @@
-<div align="center">
+<span align="left">
   <img src="https://user-images.githubusercontent.com/69250166/146096031-88881bcc-d9ea-438c-be00-5416b0ec8d16.png" width="400px"/>
-</div>
+</span>
 
 ## My Tech Stack
 ### Frontend
