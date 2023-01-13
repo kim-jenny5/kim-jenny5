@@ -10,13 +10,13 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
 </span>
 
 ### Design
 <span>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-    <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
 </span>
 
 ### Backend
@@ -27,11 +27,6 @@
 </span>
 
 ## `whoami`
-Born in South Korea and raised in New Jersey! Twizzlers > Red Vines; Milk Duds > Whoppers; Sour Patch Kids > Swedish Fish etc etc -- you get it
-<p>And I swear it was "Berenstein Bears" not "BerenSTAIN" 🍯 🧸</p>
-
-I also love music so enjoy!
-### 🎵 my coding playlists 🎵
-+ <a href="https://open.spotify.com/playlist/5SHSg2UDI4OYacw6rEaXZn?si=c8028efc520649a3">lofi</a> 😌 
-+ <a href="https://open.spotify.com/playlist/4QHirIj56ORD7JWFVWRAay?si=3728b7c742844f1a">oldies but goodies</a> 🍬
-+ <a href="https://open.spotify.com/playlist/0eOcGtOQJ3JpyHq7UoKUKz?si=a49f498868c24452">my random November playlist that I still listen to</a> 😲
+<p>I am a frontend developer, with a background in business and a passion for design, based in the New York Metropolitan Area.</p>
+<p>I love to listen to music or true crime podcasts as I code. In my free time, my hobbies are watching TV/movies, crocheting, doing my nails, and playing games on my Switch.</p>
+<p>Twizzlers > Red Vines, Milk Duds > Whoppers, Sour Patch Kids > Swedish Fish, etc. etc. -- you get it. And I swear it was "Berenstein Bears" not "BerenSTAIN" 🍯 🧸</p>
