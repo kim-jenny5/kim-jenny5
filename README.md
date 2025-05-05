@@ -31,6 +31,6 @@
 </span>
 
 ## `whoami`
-<p>I am a fullstack engineer, with a focus on frontend and a passion for design, based in the New York Metropolitan Area.</p>
+<p>I am a frontend engineer, with a passion for design, based in the New York Metropolitan Area.</p>
 <p>I love to listen to music or true crime podcasts as I code. In my free time, my hobbies are watching TV/movies, crocheting, playing games on my Switch or PC, and spending time with my friends and family (...fine, I might hang out with my cat more).</p>
 <p>Twizzlers > Red Vines, Milk Duds > Whoppers, Sour Patch Kids > Swedish Fish, etc. etc. -- you get it. And I swear it was "Berenstein Bears" not "BerenSTAIN" 🍯 🧸</p>
